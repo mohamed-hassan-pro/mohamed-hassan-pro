@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my GitHub</h1>
 
 <p>I'm <b>Mohamed Hassan</b>, a passionate learner 🚀 from Egypt 🇪🇬<br>
-Currently studying <b>Computer Science (IT)</b> and following Dr. Mohamed Abou Hadhoud's roadmap to become a strong developer. 💻✨</p>
+Currently studying <b>Computer Science (IT)</b> and following Dr. Mohamed Abu-Hadhoud's roadmap to become a strong developer. 💻✨</p>
 
 <h3>🌱 What I'm learning</h3>
 <p align="center">
