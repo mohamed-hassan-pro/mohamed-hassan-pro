@@ -4,7 +4,7 @@
 Currently studying <b>Computer Science (IT)</b> and following Dr. Mohamed Abou Hadhoud's roadmap to become a strong developer. 💻✨</p>
 
 <h3>🌱 What I'm learning</h3>
-<p>
+<p align="center">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
   <img alt="OOP C++" src="https://img.shields.io/badge/-OOP%20in%20C++-brightgreen?style=flat-square" />
   <img alt="DSA" src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=flat-square" />
@@ -22,9 +22,10 @@ Currently studying <b>Computer Science (IT)</b> and following Dr. Mohamed Abou H
 </ul>
 
 <h3>📫 Connect with me</h3>
-<p>
-  <a href="https://github.com/mohamed-hassan-pro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-hassan-pro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/mohamed-hassan-pro" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-hassan-pro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@mohamed-hassan-pro" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
