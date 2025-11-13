@@ -28,8 +28,6 @@
 
 ### 📊 My GitHub Stats
 
-> **Important Note:** Your "Top Langs" chart will likely show C++ as dominant due to your past work. This will change automatically as you build and push more Flutter & Dart projects. If you want to hide it *temporarily*, you can remove the second `img` tag (the one with `top-langs`).
-
 <p align="left">
   <a href="https://github.com/mohamed-hassan-pro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-hassan-pro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
