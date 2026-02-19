@@ -1,45 +1,57 @@
-# Mohamed Hassan | Flutter Developer 🚀
+<h1 align="center">Mohamed Hassan</h1>
 
 <p align="center">
-  A passionate Mobile Developer from Egypt 🇪🇬, specialized in building beautiful, high-performance, and scalable applications using Flutter & Dart.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Software+Engineer;Production-ready+Apps;Clean+Architecture+Enthusiast;Open+for+Remote+Opportunities" />
+</p>
+
+<p align="center">
+I build complete Flutter applications from idea to deployment  
+UI/UX → User Flow → Development → Database & Authentication
 </p>
 
 ---
 
-### 👋 About Me
+## 🚀 What I Do
 
-* 👨‍💻 I'm a Computer Science (IT) student with a professional focus on **Mobile Application Development**.
-* 📱 My passion is building clean, scalable, and engaging mobile apps using **Flutter & Dart**.
-* 🚀 I'm actively seeking a **Flutter Developer** role (Remotely, Internship, or Junior) to apply my skills and contribute to real-world projects.
+- Cross-platform mobile apps using Flutter & Dart  
+- UI/UX design before development  
+- Firebase & Supabase authentication flows  
+- Clean Architecture + OOP  
+- Fast delivery for real-world projects  
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,github,vscode" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/mohamed-hassan-pro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-hassan-pro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-hassan-pro&layout=compact&langs_count=8&theme=dracula"/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-hassan-pro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamed-hassan-pro&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+Building production-ready Flutter apps  
+Looking for remote internships, junior roles, and freelance projects  
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:mohamedhassankamel9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hassan-pro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@mohamed-hassan-pro" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-hassan-pro">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
