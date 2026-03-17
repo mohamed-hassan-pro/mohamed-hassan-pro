@@ -29,15 +29,6 @@ UI/UX → User Flow → Development → Database & Authentication
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-hassan-pro&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamed-hassan-pro&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 Building production-ready Flutter apps  
