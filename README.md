@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Hassan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Software+Engineer;Production-ready+Apps;Clean+Architecture+Enthusiast;Open+for+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Flutter+Developer;Production-ready+Apps" />
 </p>
 
 <p align="center">
